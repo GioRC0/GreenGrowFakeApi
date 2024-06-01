@@ -1,0 +1,40 @@
+{
+  "courses": [
+    {
+      "name": "Fundamento 1",
+      "price": 0.00,
+      "description": "Fund. de hidroponia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Catharanthus_roseus_white_CC-BY-SA.jpg/640px-Catharanthus_roseus_white_CC-BY-SA.jpg"
+    },
+    {
+      "name": "Cult.Avanza",
+      "price": "0.00",
+      "description": "Cult.Avanza.de Int.",
+      "image": "https://algoritmomag.com/wp-content/uploads/2024/02/hidroponia-casera.jpg"
+    },
+    {
+      "name": "Fundamento 1",
+      "price": 0.00,
+      "description": "Fund. de hidroponia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Catharanthus_roseus_white_CC-BY-SA.jpg/640px-Catharanthus_roseus_white_CC-BY-SA.jpg"
+    },
+    {
+      "name": "Cult.Avanza",
+      "price": "0.00",
+      "description": "Cult.Avanza.de Int.",
+      "image": "https://algoritmomag.com/wp-content/uploads/2024/02/hidroponia-casera.jpg"
+    },
+    {
+      "name": "Fundamento 1",
+      "price": 0.00,
+      "description": "Fund. de hidroponia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Catharanthus_roseus_white_CC-BY-SA.jpg/640px-Catharanthus_roseus_white_CC-BY-SA.jpg"
+    },
+    {
+      "name": "Cult.Avanza",
+      "price": "0.00",
+      "description": "Cult.Avanza.de Int.",
+      "image": "https://algoritmomag.com/wp-content/uploads/2024/02/hidroponia-casera.jpg"
+    }
+  ]
+}
