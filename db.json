@@ -8,7 +8,7 @@
     },
     {
       "name": "Cult.Avanza",
-      "price": "0.00",
+      "price": 0.00,
       "description": "Cult.Avanza.de Int.",
       "image": "https://algoritmomag.com/wp-content/uploads/2024/02/hidroponia-casera.jpg"
     },
@@ -20,7 +20,7 @@
     },
     {
       "name": "Cult.Avanza",
-      "price": "0.00",
+      "price": 0.00,
       "description": "Cult.Avanza.de Int.",
       "image": "https://algoritmomag.com/wp-content/uploads/2024/02/hidroponia-casera.jpg"
     },
@@ -32,7 +32,7 @@
     },
     {
       "name": "Cult.Avanza",
-      "price": "0.00",
+      "price": 0.00,
       "description": "Cult.Avanza.de Int.",
       "image": "https://algoritmomag.com/wp-content/uploads/2024/02/hidroponia-casera.jpg"
     }
